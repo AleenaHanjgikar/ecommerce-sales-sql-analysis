@@ -1,0 +1,131 @@
+order_id,customer_id,customer_name,customer_email,customer_city,customer_state,customer_segment,order_date,ship_date,product_id,product_name,category,sub_category,quantity,unit_price,discount,shipping_cost,payment_mode
+1001,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,05-01-2023,08-01-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,1,54999,0.05,150,Credit Card
+1002,C002,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,Corporate,06-01-2023,10-01-2023,P202,HP Pavilion Laptop,Electronics,Laptops,1,62000,0.1,250,Net Banking
+1003,C003,Rohan Mehta,rohan.mehta@email.com,Delhi,Delhi,Consumer,07-01-2023,09-01-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,2,2499,0,80,UPI
+1004,C004,Sneha Reddy,sneha.reddy@email.com,Hyderabad,Telangana,Consumer,08-01-2023,11-01-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,1,5999,0.1,100,Debit Card
+1005,C005,Vikram Nair,vikram.nair@email.com,Kochi,Kerala,Small Business,10-01-2023,14-01-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0.05,200,Credit Card
+1006,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,12-01-2023,15-01-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,1,3999,0,120,UPI
+1007,C006,Anjali Singh,anjali.singh@email.com,Pune,Maharashtra,Corporate,13-01-2023,17-01-2023,P202,HP Pavilion Laptop,Electronics,Laptops,2,62000,0.15,500,Net Banking
+1008,C007,Karan Gupta,karan.gupta@email.com,Jaipur,Rajasthan,Consumer,15-01-2023,18-01-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,1,1899,0,80,UPI
+1009,C008,Neha Joshi,neha.joshi@email.com,Nagpur,Maharashtra,Consumer,16-01-2023,20-01-2023,P808,Himalaya Face Wash,Beauty,Skincare,3,175,0,50,Cash on Delivery
+1010,C009,Arjun Rao,arjun.rao@email.com,Bengaluru,Karnataka,Small Business,18-01-2023,21-01-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,1,28999,0.08,500,Credit Card
+1011,C010,Divya Kapoor,divya.kapoor@email.com,Lucknow,Uttar Pradesh,Consumer,20-01-2023,23-01-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,1,2499,0.05,80,Debit Card
+1012,C002,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,Corporate,22-01-2023,25-01-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,1,54999,0.1,150,Net Banking
+1013,C011,Rahul Verma,rahul.verma@email.com,Kolkata,West Bengal,Consumer,24-01-2023,27-01-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,2,5999,0.05,150,UPI
+1014,C012,Meera Iyer,meera.iyer@email.com,Chennai,Tamil Nadu,Consumer,26-01-2023,29-01-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,2,899,0,60,Credit Card
+1015,C005,Vikram Nair,vikram.nair@email.com,Kochi,Kerala,Small Business,28-01-2023,01-02-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,1,42999,0.07,600,Net Banking
+1016,C013,Pooja Agarwal,pooja.agarwal@email.com,Surat,Gujarat,Consumer,02-02-2023,05-02-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,1,3999,0.05,120,Cash on Delivery
+1017,C014,Suresh Kumar,suresh.kumar@email.com,Patna,Bihar,Consumer,04-02-2023,08-02-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0.1,200,UPI
+1018,C003,Rohan Mehta,rohan.mehta@email.com,Delhi,Delhi,Consumer,06-02-2023,09-02-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,3,1299,0,90,Debit Card
+1019,C015,Aishwarya Das,aishwarya.das@email.com,Bhubaneswar,Odisha,Consumer,08-02-2023,12-02-2023,P808,Himalaya Face Wash,Beauty,Skincare,4,175,0.05,60,Cash on Delivery
+1020,C009,Arjun Rao,arjun.rao@email.com,Bengaluru,Karnataka,Small Business,10-02-2023,14-02-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.08,400,Credit Card
+1021,C006,Anjali Singh,anjali.singh@email.com,Pune,Maharashtra,Corporate,12-02-2023,15-02-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,3,54999,0.12,300,Net Banking
+1022,C016,Manish Tiwari,manish.tiwari@email.com,Bhopal,Madhya Pradesh,Consumer,14-02-2023,18-02-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,2,1899,0,100,UPI
+1023,C017,Ritu Srivastava,ritu.srivastava@email.com,Varanasi,Uttar Pradesh,Consumer,16-02-2023,20-02-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,1,5999,0,100,Debit Card
+1024,C010,Divya Kapoor,divya.kapoor@email.com,Lucknow,Uttar Pradesh,Consumer,18-02-2023,22-02-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,1,899,0.1,60,Credit Card
+1025,C018,Gaurav Malhotra,gaurav.malhotra@email.com,Chandigarh,Punjab,Small Business,20-02-2023,24-02-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,2,28999,0.05,800,Net Banking
+1026,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,22-02-2023,25-02-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,2,1299,0,80,UPI
+1027,C019,Swati Bhatt,swati.bhatt@email.com,Rajkot,Gujarat,Consumer,24-02-2023,28-02-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0,200,Cash on Delivery
+1028,C011,Rahul Verma,rahul.verma@email.com,Kolkata,West Bengal,Consumer,26-02-2023,01-03-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,2,3999,0.05,150,UPI
+1029,C020,Deepak Pillai,deepak.pillai@email.com,Thiruvananthapuram,Kerala,Corporate,01-03-2023,05-03-2023,P202,HP Pavilion Laptop,Electronics,Laptops,1,62000,0.1,250,Net Banking
+1030,C004,Sneha Reddy,sneha.reddy@email.com,Hyderabad,Telangana,Consumer,03-03-2023,07-03-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.05,400,Credit Card
+1031,C012,Meera Iyer,meera.iyer@email.com,Chennai,Tamil Nadu,Consumer,05-03-2023,09-03-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,1,2499,0,80,Debit Card
+1032,C021,Harish Pandey,harish.pandey@email.com,Allahabad,Uttar Pradesh,Consumer,07-03-2023,11-03-2023,P808,Himalaya Face Wash,Beauty,Skincare,5,175,0,70,Cash on Delivery
+1033,C022,Kavita Yadav,kavita.yadav@email.com,Indore,Madhya Pradesh,Small Business,09-03-2023,13-03-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,1,42999,0.08,600,Credit Card
+1034,C007,Karan Gupta,karan.gupta@email.com,Jaipur,Rajasthan,Consumer,11-03-2023,14-03-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,1,5999,0.1,100,UPI
+1035,C023,Sanjay Mishra,sanjay.mishra@email.com,Agra,Uttar Pradesh,Consumer,13-03-2023,17-03-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,4,1299,0.05,100,Debit Card
+1036,C002,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,Corporate,15-03-2023,18-03-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,1,28999,0.1,500,Net Banking
+1037,C024,Lalita Chauhan,lalita.chauhan@email.com,Dehradun,Uttarakhand,Consumer,17-03-2023,21-03-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,3,899,0,70,Cash on Delivery
+1038,C009,Arjun Rao,arjun.rao@email.com,Bengaluru,Karnataka,Small Business,19-03-2023,22-03-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,2,54999,0.1,250,Credit Card
+1039,C025,Preeti Bose,preeti.bose@email.com,Guwahati,Assam,Consumer,21-03-2023,25-03-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0.05,200,UPI
+1040,C015,Aishwarya Das,aishwarya.das@email.com,Bhubaneswar,Odisha,Consumer,23-03-2023,27-03-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,2,1899,0,100,Debit Card
+1041,C016,Manish Tiwari,manish.tiwari@email.com,Bhopal,Madhya Pradesh,Consumer,01-04-2023,05-04-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,1,3999,0,120,UPI
+1042,C020,Deepak Pillai,deepak.pillai@email.com,Thiruvananthapuram,Kerala,Corporate,03-04-2023,07-04-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.07,400,Net Banking
+1043,C003,Rohan Mehta,rohan.mehta@email.com,Delhi,Delhi,Consumer,05-04-2023,08-04-2023,P808,Himalaya Face Wash,Beauty,Skincare,3,175,0,50,Cash on Delivery
+1044,C018,Gaurav Malhotra,gaurav.malhotra@email.com,Chandigarh,Punjab,Small Business,07-04-2023,11-04-2023,P202,HP Pavilion Laptop,Electronics,Laptops,1,62000,0.08,250,Credit Card
+1045,C022,Kavita Yadav,kavita.yadav@email.com,Indore,Madhya Pradesh,Small Business,09-04-2023,13-04-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,2,54999,0.1,200,Net Banking
+1046,C011,Rahul Verma,rahul.verma@email.com,Kolkata,West Bengal,Consumer,11-04-2023,15-04-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,2,1299,0.05,80,UPI
+1047,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,13-04-2023,17-04-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,1,5999,0,100,Credit Card
+1048,C008,Neha Joshi,neha.joshi@email.com,Nagpur,Maharashtra,Consumer,15-04-2023,19-04-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,2,899,0.05,60,Debit Card
+1049,C023,Sanjay Mishra,sanjay.mishra@email.com,Agra,Uttar Pradesh,Consumer,17-04-2023,21-04-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,1,28999,0,500,Cash on Delivery
+1050,C013,Pooja Agarwal,pooja.agarwal@email.com,Surat,Gujarat,Consumer,19-04-2023,23-04-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0.05,200,UPI
+1051,C006,Anjali Singh,anjali.singh@email.com,Pune,Maharashtra,Corporate,01-05-2023,05-05-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,2,42999,0.1,1000,Net Banking
+1052,C024,Lalita Chauhan,lalita.chauhan@email.com,Dehradun,Uttarakhand,Consumer,03-05-2023,07-05-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,1,2499,0,80,Debit Card
+1053,C017,Ritu Srivastava,ritu.srivastava@email.com,Varanasi,Uttar Pradesh,Consumer,05-05-2023,09-05-2023,P808,Himalaya Face Wash,Beauty,Skincare,2,175,0,50,Cash on Delivery
+1054,C005,Vikram Nair,vikram.nair@email.com,Kochi,Kerala,Small Business,07-05-2023,11-05-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.1,400,Credit Card
+1055,C019,Swati Bhatt,swati.bhatt@email.com,Rajkot,Gujarat,Consumer,09-05-2023,13-05-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,1,1899,0,80,UPI
+1056,C025,Preeti Bose,preeti.bose@email.com,Guwahati,Assam,Consumer,11-05-2023,15-05-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,2,5999,0.05,150,Debit Card
+1057,C010,Divya Kapoor,divya.kapoor@email.com,Lucknow,Uttar Pradesh,Consumer,13-05-2023,17-05-2023,P202,HP Pavilion Laptop,Electronics,Laptops,1,62000,0.05,250,Net Banking
+1058,C002,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,Corporate,15-05-2023,19-05-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,3,3999,0.1,200,Credit Card
+1059,C021,Harish Pandey,harish.pandey@email.com,Allahabad,Uttar Pradesh,Consumer,17-05-2023,21-05-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,2,1299,0,80,Cash on Delivery
+1060,C007,Karan Gupta,karan.gupta@email.com,Jaipur,Rajasthan,Consumer,20-05-2023,24-05-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,1,54999,0.05,150,UPI
+1061,C009,Arjun Rao,arjun.rao@email.com,Bengaluru,Karnataka,Small Business,01-06-2023,05-06-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,2,28999,0.1,800,Net Banking
+1062,C004,Sneha Reddy,sneha.reddy@email.com,Hyderabad,Telangana,Consumer,03-06-2023,07-06-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,2,899,0.05,60,Credit Card
+1063,C012,Meera Iyer,meera.iyer@email.com,Chennai,Tamil Nadu,Consumer,05-06-2023,09-06-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0,200,UPI
+1064,C018,Gaurav Malhotra,gaurav.malhotra@email.com,Chandigarh,Punjab,Small Business,07-06-2023,11-06-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,1,42999,0.07,600,Credit Card
+1065,C003,Rohan Mehta,rohan.mehta@email.com,Delhi,Delhi,Consumer,09-06-2023,13-06-2023,P808,Himalaya Face Wash,Beauty,Skincare,4,175,0,60,Cash on Delivery
+1066,C020,Deepak Pillai,deepak.pillai@email.com,Thiruvananthapuram,Kerala,Corporate,11-06-2023,15-06-2023,P202,HP Pavilion Laptop,Electronics,Laptops,2,62000,0.12,400,Net Banking
+1067,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,13-06-2023,17-06-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.05,400,Credit Card
+1068,C016,Manish Tiwari,manish.tiwari@email.com,Bhopal,Madhya Pradesh,Consumer,15-06-2023,19-06-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,2,2499,0,100,UPI
+1069,C022,Kavita Yadav,kavita.yadav@email.com,Indore,Madhya Pradesh,Small Business,17-06-2023,21-06-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,3,5999,0.05,200,Debit Card
+1070,C011,Rahul Verma,rahul.verma@email.com,Kolkata,West Bengal,Consumer,20-06-2023,24-06-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,1,1899,0,80,Cash on Delivery
+1071,C025,Preeti Bose,preeti.bose@email.com,Guwahati,Assam,Consumer,02-07-2023,06-07-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,1,54999,0.05,150,UPI
+1072,C006,Anjali Singh,anjali.singh@email.com,Pune,Maharashtra,Corporate,04-07-2023,08-07-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,1,28999,0.08,500,Net Banking
+1073,C014,Suresh Kumar,suresh.kumar@email.com,Patna,Bihar,Consumer,06-07-2023,10-07-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,2,3999,0,150,Debit Card
+1074,C023,Sanjay Mishra,sanjay.mishra@email.com,Agra,Uttar Pradesh,Consumer,08-07-2023,12-07-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,2,899,0.1,60,Cash on Delivery
+1075,C008,Neha Joshi,neha.joshi@email.com,Nagpur,Maharashtra,Consumer,10-07-2023,14-07-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,3,1299,0.05,90,Credit Card
+1076,C015,Aishwarya Das,aishwarya.das@email.com,Bhubaneswar,Odisha,Consumer,12-07-2023,16-07-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0,200,UPI
+1077,C005,Vikram Nair,vikram.nair@email.com,Kochi,Kerala,Small Business,14-07-2023,18-07-2023,P202,HP Pavilion Laptop,Electronics,Laptops,2,62000,0.1,400,Net Banking
+1078,C019,Swati Bhatt,swati.bhatt@email.com,Rajkot,Gujarat,Consumer,16-07-2023,20-07-2023,P808,Himalaya Face Wash,Beauty,Skincare,3,175,0,50,Cash on Delivery
+1079,C010,Divya Kapoor,divya.kapoor@email.com,Lucknow,Uttar Pradesh,Consumer,18-07-2023,22-07-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,2,2499,0.05,100,Debit Card
+1080,C007,Karan Gupta,karan.gupta@email.com,Jaipur,Rajasthan,Consumer,22-07-2023,26-07-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,1,42999,0.05,600,Credit Card
+1081,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,01-08-2023,05-08-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,1,5999,0.1,100,UPI
+1082,C009,Arjun Rao,arjun.rao@email.com,Bengaluru,Karnataka,Small Business,03-08-2023,07-08-2023,P1313,Canon DSLR Camera,Electronics,Cameras,2,35999,0.08,700,Credit Card
+1083,C024,Lalita Chauhan,lalita.chauhan@email.com,Dehradun,Uttarakhand,Consumer,05-08-2023,09-08-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,1,1899,0,80,Cash on Delivery
+1084,C013,Pooja Agarwal,pooja.agarwal@email.com,Surat,Gujarat,Consumer,07-08-2023,11-08-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,1,54999,0.08,150,Debit Card
+1085,C021,Harish Pandey,harish.pandey@email.com,Allahabad,Uttar Pradesh,Consumer,09-08-2023,13-08-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,2,3999,0.05,150,UPI
+1086,C017,Ritu Srivastava,ritu.srivastava@email.com,Varanasi,Uttar Pradesh,Consumer,11-08-2023,15-08-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,3,1299,0,90,Cash on Delivery
+1087,C002,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,Corporate,13-08-2023,17-08-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,1,28999,0.1,500,Net Banking
+1088,C011,Rahul Verma,rahul.verma@email.com,Kolkata,West Bengal,Consumer,15-08-2023,19-08-2023,P808,Himalaya Face Wash,Beauty,Skincare,4,175,0,60,Cash on Delivery
+1089,C004,Sneha Reddy,sneha.reddy@email.com,Hyderabad,Telangana,Consumer,17-08-2023,21-08-2023,P505,Philips Air Fryer,Kitchen,Appliances,1,7499,0.05,200,Credit Card
+1090,C018,Gaurav Malhotra,gaurav.malhotra@email.com,Chandigarh,Punjab,Small Business,20-08-2023,24-08-2023,P202,HP Pavilion Laptop,Electronics,Laptops,1,62000,0.08,250,Net Banking
+1091,C003,Rohan Mehta,rohan.mehta@email.com,Delhi,Delhi,Consumer,01-09-2023,05-09-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,2,899,0,60,UPI
+1092,C006,Anjali Singh,anjali.singh@email.com,Pune,Maharashtra,Corporate,03-09-2023,07-09-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,3,42999,0.12,1200,Net Banking
+1093,C020,Deepak Pillai,deepak.pillai@email.com,Thiruvananthapuram,Kerala,Corporate,05-09-2023,09-09-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,2,54999,0.1,250,Credit Card
+1094,C012,Meera Iyer,meera.iyer@email.com,Chennai,Tamil Nadu,Consumer,07-09-2023,11-09-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,3,2499,0.05,120,Debit Card
+1095,C022,Kavita Yadav,kavita.yadav@email.com,Indore,Madhya Pradesh,Small Business,09-09-2023,13-09-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.07,400,Credit Card
+1096,C025,Preeti Bose,preeti.bose@email.com,Guwahati,Assam,Consumer,11-09-2023,15-09-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,2,1899,0,100,Cash on Delivery
+1097,C015,Aishwarya Das,aishwarya.das@email.com,Bhubaneswar,Odisha,Consumer,13-09-2023,17-09-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,1,5999,0.05,100,UPI
+1098,C008,Neha Joshi,neha.joshi@email.com,Nagpur,Maharashtra,Consumer,15-09-2023,19-09-2023,P808,Himalaya Face Wash,Beauty,Skincare,3,175,0,50,Debit Card
+1099,C007,Karan Gupta,karan.gupta@email.com,Jaipur,Rajasthan,Consumer,18-09-2023,22-09-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,1,3999,0,120,Cash on Delivery
+1100,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,20-09-2023,24-09-2023,P202,HP Pavilion Laptop,Electronics,Laptops,1,62000,0.08,250,Credit Card
+1101,C005,Vikram Nair,vikram.nair@email.com,Kochi,Kerala,Small Business,02-10-2023,06-10-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,5,1299,0.05,120,UPI
+1102,C014,Suresh Kumar,suresh.kumar@email.com,Patna,Bihar,Consumer,04-10-2023,08-10-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,1,28999,0.05,500,Net Banking
+1103,C019,Swati Bhatt,swati.bhatt@email.com,Rajkot,Gujarat,Consumer,06-10-2023,10-10-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,1,54999,0.1,150,Debit Card
+1104,C023,Sanjay Mishra,sanjay.mishra@email.com,Agra,Uttar Pradesh,Consumer,08-10-2023,12-10-2023,P505,Philips Air Fryer,Kitchen,Appliances,2,7499,0.05,300,Cash on Delivery
+1105,C009,Arjun Rao,arjun.rao@email.com,Bengaluru,Karnataka,Small Business,10-10-2023,14-10-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,1,42999,0.08,600,Credit Card
+1106,C016,Manish Tiwari,manish.tiwari@email.com,Bhopal,Madhya Pradesh,Consumer,12-10-2023,16-10-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,3,899,0,70,UPI
+1107,C010,Divya Kapoor,divya.kapoor@email.com,Lucknow,Uttar Pradesh,Consumer,14-10-2023,18-10-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,2,5999,0.1,150,Debit Card
+1108,C002,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,Corporate,16-10-2023,20-10-2023,P1313,Canon DSLR Camera,Electronics,Cameras,2,35999,0.1,700,Net Banking
+1109,C024,Lalita Chauhan,lalita.chauhan@email.com,Dehradun,Uttarakhand,Consumer,18-10-2023,22-10-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,2,1899,0.05,100,Cash on Delivery
+1110,C004,Sneha Reddy,sneha.reddy@email.com,Hyderabad,Telangana,Consumer,22-10-2023,26-10-2023,P202,HP Pavilion Laptop,Electronics,Laptops,1,62000,0.1,250,Credit Card
+1111,C003,Rohan Mehta,rohan.mehta@email.com,Delhi,Delhi,Consumer,01-11-2023,05-11-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,2,54999,0.1,250,UPI
+1112,C021,Harish Pandey,harish.pandey@email.com,Allahabad,Uttar Pradesh,Consumer,03-11-2023,07-11-2023,P808,Himalaya Face Wash,Beauty,Skincare,5,175,0,70,Cash on Delivery
+1113,C011,Rahul Verma,rahul.verma@email.com,Kolkata,West Bengal,Consumer,05-11-2023,09-11-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,2,3999,0.05,150,Debit Card
+1114,C006,Anjali Singh,anjali.singh@email.com,Pune,Maharashtra,Corporate,07-11-2023,11-11-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,3,28999,0.12,1200,Net Banking
+1115,C017,Ritu Srivastava,ritu.srivastava@email.com,Varanasi,Uttar Pradesh,Consumer,09-11-2023,13-11-2023,P303,Levi's Slim Fit Jeans,Apparel,Bottomwear,2,2499,0,100,Cash on Delivery
+1116,C013,Pooja Agarwal,pooja.agarwal@email.com,Surat,Gujarat,Consumer,11-11-2023,15-11-2023,P1212,Allen Solly T-Shirt,Apparel,Topwear,3,1299,0.05,90,UPI
+1117,C025,Preeti Bose,preeti.bose@email.com,Guwahati,Assam,Consumer,13-11-2023,17-11-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,1,42999,0.07,600,Credit Card
+1118,C018,Gaurav Malhotra,gaurav.malhotra@email.com,Chandigarh,Punjab,Small Business,15-11-2023,19-11-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.05,400,Net Banking
+1119,C022,Kavita Yadav,kavita.yadav@email.com,Indore,Madhya Pradesh,Small Business,17-11-2023,21-11-2023,P505,Philips Air Fryer,Kitchen,Appliances,2,7499,0.08,350,Credit Card
+1120,C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,Maharashtra,Consumer,20-11-2023,24-11-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,2,5999,0.1,150,UPI
+1121,C008,Neha Joshi,neha.joshi@email.com,Nagpur,Maharashtra,Consumer,01-12-2023,05-12-2023,P101,Samsung Galaxy S22,Electronics,Smartphones,1,54999,0.15,150,Debit Card
+1122,C009,Arjun Rao,arjun.rao@email.com,Bengaluru,Karnataka,Small Business,03-12-2023,07-12-2023,P202,HP Pavilion Laptop,Electronics,Laptops,2,62000,0.15,500,Credit Card
+1123,C020,Deepak Pillai,deepak.pillai@email.com,Thiruvananthapuram,Kerala,Corporate,05-12-2023,09-12-2023,P1111,Sony Bravia 43 TV,Electronics,Televisions,2,42999,0.12,1000,Net Banking
+1124,C015,Aishwarya Das,aishwarya.das@email.com,Bhubaneswar,Odisha,Consumer,07-12-2023,11-12-2023,P1010,Lakme Lipstick Set,Beauty,Makeup,4,899,0.1,80,Cash on Delivery
+1125,C005,Vikram Nair,vikram.nair@email.com,Kochi,Kerala,Small Business,09-12-2023,13-12-2023,P1313,Canon DSLR Camera,Electronics,Cameras,1,35999,0.1,400,Credit Card
+1126,C019,Swati Bhatt,swati.bhatt@email.com,Rajkot,Gujarat,Consumer,11-12-2023,15-12-2023,P707,Prestige Pressure Cooker,Kitchen,Cookware,3,1899,0.05,120,UPI
+1127,C007,Karan Gupta,karan.gupta@email.com,Jaipur,Rajasthan,Consumer,13-12-2023,17-12-2023,P808,Himalaya Face Wash,Beauty,Skincare,4,175,0,60,Cash on Delivery
+1128,C004,Sneha Reddy,sneha.reddy@email.com,Hyderabad,Telangana,Consumer,15-12-2023,19-12-2023,P606,JBL Bluetooth Speaker,Electronics,Audio,2,3999,0.05,150,Debit Card
+1129,C012,Meera Iyer,meera.iyer@email.com,Chennai,Tamil Nadu,Consumer,17-12-2023,21-12-2023,P404,Nike Running Shoes,Footwear,Sports Shoes,1,5999,0.1,100,UPI
+1130,C002,Priya Patel,priya.patel@email.com,Ahmedabad,Gujarat,Corporate,20-12-2023,24-12-2023,P909,Whirlpool Washing Machine,Appliances,Washing Machines,2,28999,0.15,900,Net Banking
