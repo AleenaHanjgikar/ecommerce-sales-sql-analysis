@@ -3,7 +3,6 @@
 --   Author  : [Aleena Hanjgikar]
 --   Database: ecommerce_db
 --   Dataset : Indian E-Commerce Sales (Mar 2026)
---   GitHub  : github.com/[your-username]/ecommerce-mysql-analysis
 -- ============================================================
  
 -- ─────────────────────────────────────────────
